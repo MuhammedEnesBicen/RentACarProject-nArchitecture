@@ -1,3 +1,11 @@
+### 🏠 This Project is developing in scope of Kodlama.io 2024 Software Developer Code Camp. 🏠
+In this camp we are developing a project with nArchitecture Code generator.
+
+Information about nArchitecture Code Generator can be found below.
+
+<hr/>
+
+
 <p align="center">
   <a href="https://github.com/kodlamaio-projects/nArchitecture/graphs/contributors"><img src="https://img.shields.io/github/contributors/kodlamaio-projects/nArchitecture.svg?style=for-the-badge"></a>
   <a href="https://github.com/kodlamaio-projects/nArchitecture/network/members"><img src="https://img.shields.io/github/forks/kodlamaio-projects/nArchitecture.svg?style=for-the-badge"></a>
